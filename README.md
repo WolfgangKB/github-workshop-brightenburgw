@@ -1,6 +1,8 @@
+#Welcome to my repository
 ---
 title: "READMEE"
 output: html_document
+authors: Wolfgang Brightenburg
 ---
 
 ```{r setup, include=FALSE}
